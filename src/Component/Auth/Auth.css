@@ -1,0 +1,15 @@
+.formsidbar{
+    border: 2px solid grey;
+    border-radius: 5px;
+    padding:20px;
+    
+}
+
+.warning{
+    color:red;
+}
+.dbutton{
+    width:100%;
+    margin-bottom: 8px;
+    padding:5px;
+}

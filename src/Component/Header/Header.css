@@ -1,0 +1,28 @@
+.Navigation{
+    margin-bottom: 50px;
+
+}
+.Brand{
+    color:aqua;
+    margin-top: -20px;
+    font-size: 15px;
+}
+.test{
+    margin-right: 20px;
+}
+.NavLink{
+    text-decoration: none;
+    color:aqua;
+    margin-top: -25px;
+    font-size: 20px;
+    margin-left: 10px;
+
+}
+.NavLink:hover{
+    color:white;
+    text-decoration: none;
+}
+.active{
+    text-shadow: 1px 1px gray;
+    color:white;
+}
